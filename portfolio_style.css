@@ -24,8 +24,8 @@ body {
 .logo_image {
     height: 100%;
     display: inline-block;
-    line-height: normal;
-    vertical-align: middle;
+    /* line-height: normal; */
+    align-items: center;
 }
 
 .menu {
